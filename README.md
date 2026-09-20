@@ -5,14 +5,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Full-Stack+Developer;Turning+ideas+into+working+software;Always+learning.+Always+building." />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Jaya-Dewa-Ravi-Chandra?label=STARS&style=for-the-badge&color=F59E0B&labelColor=0D1117" />
-</p>
-
 ---
 
-## 🧬 `whoami`
+## 🧬 `who am i`
 
 <table>
 <tr>
