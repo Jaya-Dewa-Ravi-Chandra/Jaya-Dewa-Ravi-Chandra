@@ -1,264 +1,407 @@
-# 👋 Hey, I'm Jaya Dewa Ravi Chandra
+# 👾 JAYA DEWA RAVI CHANDRA
 
-### `AI Engineer in the making • Full-Stack Developer • Problem Solver`
+### `AI Undergraduate` · `Full-Stack Developer` · `Builder`
 
-I'm a **B.Tech Artificial Intelligence undergraduate at Anurag University, Hyderabad**, passionate about building **full-stack applications, AI-powered products, and scalable software solutions**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Full-Stack+Developer;Turning+ideas+into+working+software;Always+learning.+Always+building." />
+</p>
 
-Currently exploring the intersection of **Artificial Intelligence × Software Engineering × Full-Stack Development**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=STARS&style=for-the-badge&color=F59E0B&labelColor=0D1117" />
+</p>
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│  🎓 B.Tech Artificial Intelligence                         │
-│  📊 CGPA: 9.13                                             │
-│  💻 Full-Stack Development                                 │
-│  🤖 AI / Gemini API                                        │
-│  🧠 DSA • OOP • Software Design                            │
-│  🚀 Building things that solve real problems               │
-└─────────────────────────────────────────────────────────────┘
+---
+
+## 🧬 `whoami`
+
+<table>
+<tr>
+<td width="55%">
+
+```yaml
+name: Jaya Dewa Ravi Chandra
+role: AI Undergraduate
+university: Anurag University
+location: Hyderabad, India
+
+focus:
+  - Artificial Intelligence
+  - Full-Stack Development
+  - Backend Engineering
+  - Generative AI
+
+currently:
+  - Building
+  - Learning
+  - Experimenting
 ```
 
----
+</td>
 
-## 🧠 About Me
+<td width="45%">
 
-* 🎓 Pursuing **Bachelor of Technology in Artificial Intelligence**
-* 💻 Focused on **Full-Stack Development & AI-powered applications**
-* ⚡ Strong interest in **Java, Python, JavaScript & React**
-* 🔌 Experienced with **REST APIs, Node.js, Express.js & MongoDB**
-* 🧩 Solid foundation in **Data Structures & Algorithms, OOP & Multithreading**
-* 🏆 **Winner – Web Development Domain, Tech Hack #4**
-* 🌱 Constantly learning, experimenting, and building
+### ⚡ Quick Stats
 
----
+|                      |                 |
+| -------------------- | --------------- |
+| 🎓 **Degree**        | B.Tech AI       |
+| 📊 **CGPA**          | **9.13**        |
+| 💻 **Focus**         | Full-Stack + AI |
+| 🏆 **Hackathon**     | Winner          |
+| 👨‍💻 **Internship** | Sadhaka AI      |
+| 🚀 **Projects**      | 3 Featured      |
 
-## ⚙️ Tech Stack
-
-### 👨‍💻 Languages
-
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge\&logo=c\&logoColor=A8B9CC)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-
-### 🌐 Full-Stack Development
-
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge\&logo=nodedotjs\&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=FFFFFF)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge\&logo=tailwindcss\&logoColor=06B6D4)
-
-### 🗄️ Databases & Backend
-
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
-![REST API](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge\&logo=fastapi\&logoColor=009688)
-
-### 🤖 AI & Developer Tools
-
-![Gemini](https://img.shields.io/badge/Gemini_API-000000?style=for-the-badge\&logo=googlegemini\&logoColor=8E75B2)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-000000?style=for-the-badge\&logo=cloudinary\&logoColor=3448C5)
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Featured Projects
+# 🛠️ TECH ARSENAL
 
-## 🤖 AI-Powered Resume Analyzer
+### 💻 Programming
 
-> **AI × Full-Stack × ATS**
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-An AI-powered platform that analyzes resumes and provides actionable career feedback.
+### 🌐 Full-Stack
 
-**Built with:**
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
-`React` `Node.js` `Express.js` `MongoDB` `Gemini API` `Multer` `Cloudinary` `Tailwind CSS`
+### 🗄️ Database & APIs
 
-### Key Features
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
 
-* 📄 AI-powered resume analysis
-* 🎯 Automated ATS scoring
-* 💡 Personalized resume feedback
+### 🤖 AI & Cloud
+
+<p>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+</p>
+
+### 🔧 Developer Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+# 📊 SKILL MATRIX
+
+| Domain                 | Technologies                       |
+| :--------------------- | :--------------------------------- |
+| 🧠 **Languages**       | `Java` `Python` `C` `JavaScript`   |
+| ⚛️ **Frontend**        | `React.js` `HTML` `Tailwind CSS`   |
+| 🟢 **Backend**         | `Node.js` `Express.js` `REST APIs` |
+| 🗄️ **Database**       | `MongoDB` `SQL`                    |
+| 🤖 **AI**              | `Gemini API`                       |
+| ☁️ **Cloud / Storage** | `Supabase` `Cloudinary`            |
+| 🧩 **Core CS**         | `DSA` `OOP` `Multithreading`       |
+| 🔧 **Tools**           | `Git` `GitHub`                     |
+
+---
+
+# 🚀 PROJECTS
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+## 🤖 Resume Analyzer
+
+**AI-powered resume intelligence platform**
+
+### Stack
+
+`React` `Node.js`
+`Express` `MongoDB`
+`Gemini API` `Cloudinary`
+
+### Features
+
+* 🎯 ATS scoring
+* 🧠 AI analysis
+* 💡 Personalized feedback
 * 🔐 JWT authentication
 * 👥 Role-based dashboards
-* 📱 Fully responsive interface
+* 📱 Responsive UI
 
-> Reduced manual screening effort by **90%** through automated resume analysis.
+**Impact:**
+`90% ↓ manual screening effort`
 
----
+</td>
+
+<td width="33%" valign="top">
 
 ## 💰 UdhaarBook
 
-> **Digital Ledger Management System**
+**Digital ledger system for small businesses**
 
-A full-stack MERN application designed to digitize customer credit and payment management for small businesses.
+### Stack
 
-**Built with:**
+`MERN` `JWT`
+`Razorpay` `REST APIs`
 
-`MongoDB` `Express.js` `React` `Node.js` `JWT` `Razorpay`
+### Features
 
-### Key Features
+* 📒 Digital ledgers
+* 🔌 **20+ APIs**
+* 🔐 Authentication
+* 👥 RBAC
+* 💳 Payments
+* ♻️ Soft-delete recovery
 
-* 📒 Digital customer ledgers
-* 🔌 **20+ REST APIs**
-* 🔐 JWT authentication
-* 👥 Role-based access control
-* 💳 Razorpay payment integration
-* ♻️ Soft-delete & recovery
-* 📊 Secure transaction management
+**Focus:**
+`Secure transaction management`
 
----
+</td>
+
+<td width="33%" valign="top">
 
 ## 🌾 FarmNXT
 
-> **AI-Powered Smart Farming Assistant**
+**AI-powered smart farming assistant**
 
-A responsive agricultural platform combining AI, machine learning, weather intelligence, and community-driven features to assist farmers.
+### Stack
 
-**Built with:**
+`JavaScript` `HTML/CSS`
+`Supabase` `REST APIs`
 
-`JavaScript` `HTML/CSS` `Supabase` `REST APIs`
+### Features
 
-### Key Features
+* 🤖 AI chatbot
+* 🌱 Disease detection
+* 💧 Irrigation planning
+* 🌦️ Weather intelligence
+* 👥 Community feed
 
-* 🤖 AI-powered farming chatbot
-* 🌱 Crop pest & disease detection
-* 💧 Weather-based irrigation planning
-* 🌦️ Smart agricultural recommendations
-* 👥 Real-time community feed
-* 🌍 Designed for practical farmer assistance
+**Impact:**
 
-### Impact
+`15+` crop diseases
+`20%` water reduction
+`30+` farmers
 
-* 🌱 Detects **15+ crop pests & diseases**
-* 💧 Irrigation planning reduced water usage by **20%**
-* 👨‍🌾 Platform designed to support **30+ farmers**
-
-🏆 **Winner — Web Development Domain, Tech Hack #4**
-
----
-
-# 💼 Experience
-
-### Full Stack Intern — Sadhaka AI
-
-📍 Hyderabad, India · June 2025
-
-Worked on backend development for an agricultural advisory platform.
-
-```text
-REST APIs
-   │
-   ├── Backend improvements
-   ├── Agricultural advisory platform
-   └── Digital support for 30+ farmers
-```
-
-Contributed improvements to approximately **20% of the REST API endpoints** supporting crop guidance and digital agricultural services.
+</td>
+</tr>
+</table>
 
 ---
 
-# 🏆 Achievements
+# 🏆 ACHIEVEMENTS
 
-### 🥇 Tech Hack #4 — Winner
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🥇 WINNER
+
+<img src="https://img.shields.io/badge/Tech_Hack_%234-Winner-F59E0B?style=for-the-badge"/>
 
 **Web Development Domain**
 
-Competed among **50+ teams** while building the FarmNXT smart farming platform.
+Competed among **50+ teams**
+
+</td>
+
+<td align="center" width="50%">
+
+### 🎓 ACADEMICS
+
+<img src="https://img.shields.io/badge/CGPA-9.13-22C55E?style=for-the-badge"/>
+
+**B.Tech Artificial Intelligence**
+
+Anurag University
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📜 Certifications
+# 💼 EXPERIENCE
 
-* ☁️ **AWS Academy Graduate — Cloud Foundations**
-* 🧩 **Problem Solving (Basic) — HackerRank**
-* 🤖 **Prompt Design in Vertex AI — Google Cloud**
-* 📚 **Inspect Rich Documents with Gemini Multimodality and Multimodal RAG — Google Cloud**
+### `Sadhaka AI` — Full Stack Intern
 
----
+📍 Hyderabad, India · **June 2025**
 
-# 🧠 Core CS
-
-```text
-Data Structures & Algorithms
-        ↓
-Object-Oriented Programming
-        ↓
-Multithreading
-        ↓
-Software Design
-        ↓
-Full-Stack Engineering
-        ↓
-AI-Powered Applications
-```
+| Contribution          | Impact                                 |
+| :-------------------- | :------------------------------------- |
+| Backend development   | Improved **20% of REST API endpoints** |
+| Agricultural platform | Crop guidance & digital support        |
+| User impact           | **30+ farmers** supported              |
 
 ---
 
-# 📈 Currently Exploring
+# 📜 CERTIFICATIONS
 
-```javascript
-const currentlyLearning = [
-  "Artificial Intelligence",
-  "Full-Stack Development",
-  "Backend Engineering",
-  "System Design",
-  "Data Structures & Algorithms",
-  "Generative AI"
-];
-```
+| Certification                               | Provider         |
+| :------------------------------------------ | :--------------- |
+| ☁️ AWS Academy Graduate — Cloud Foundations | **AWS Academy**  |
+| 🧩 Problem Solving (Basic)                  | **HackerRank**   |
+| 🤖 Prompt Design in Vertex AI               | **Google Cloud** |
+| 📚 Gemini Multimodality & Multimodal RAG    | **Google Cloud** |
 
 ---
 
-# 🌐 Connect With Me
+# 📈 GITHUB ANALYTICS
 
-<p align="left">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-📧 **Email:** `jayadewaravichandra@gmail.com`
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## ⚡ Developer Philosophy
+## 📊 Contribution Graph
 
-> **Build. Break. Learn. Rebuild.**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
 
-I enjoy turning ideas into working software, experimenting with emerging technologies, and continuously improving the way I build.
+---
+
+# 🧠 CURRENTLY BUILDING
 
 ```text
-               ┌───────────────┐
-               │    IDEA 💡    │
-               └───────┬───────┘
-                       ↓
-               ┌───────────────┐
-               │    BUILD ⚙️   │
-               └───────┬───────┘
-                       ↓
-               ┌───────────────┐
-               │   BREAK 💀    │
-               └───────┬───────┘
-                       ↓
-               ┌───────────────┐
-               │   LEARN 🧠    │
-               └───────┬───────┘
-                       ↓
-               ┌───────────────┐
-               │   REBUILD 🚀  │
-               └───────────────┘
+                    ┌─────────────────────┐
+                    │   ARTIFICIAL        │
+                    │   INTELLIGENCE 🤖   │
+                    └──────────┬──────────┘
+                               │
+                ┌──────────────┼──────────────┐
+                ↓              ↓              ↓
+           FULL-STACK       BACKEND       GEN AI
+                │              │              │
+                └──────────────┼──────────────┘
+                               ↓
+                     REAL-WORLD PRODUCTS
 ```
 
-### `Let's build something interesting.`
+---
+
+# 🧩 CORE CS
+
+| 🧠 Concept         | Focus                  |
+| :----------------- | :--------------------- |
+| 📚 Data Structures | Problem solving        |
+| ⚡ Algorithms       | Optimization           |
+| 🏗️ OOP            | Software architecture  |
+| 🧵 Multithreading  | Concurrent programming |
+| 🔌 REST APIs       | Backend engineering    |
+| 🗄️ Databases      | Data management        |
+
+---
+
+# 🎯 DEVELOPER JOURNEY
+
+```text
+2024
+ │
+ ├── 🎓 Started B.Tech AI
+ │
+ ▼
+2025
+ │
+ ├── 💼 Full Stack Internship
+ ├── 🌾 Built FarmNXT
+ ├── 🏆 Tech Hack #4 Winner
+ │
+ ▼
+2026
+ │
+ ├── 🤖 AI + Full-Stack
+ ├── 🚀 Building scalable applications
+ └── 🧠 Expanding engineering skills
+```
+
+---
+
+# 📫 CONNECT
+
+<p align="center">
+
+<a href="mailto:jayadewaravichandra@gmail.com">
+<img src="https://img.shields.io/badge/Email-jayadewaravichandra%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<details>
+<summary>🧪 More About Me</summary>
+
+<br>
+
+```javascript
+const developer = {
+    name: "Jaya Dewa Ravi Chandra",
+    degree: "B.Tech Artificial Intelligence",
+    university: "Anurag University",
+
+    interests: [
+        "Artificial Intelligence",
+        "Full-Stack Development",
+        "Backend Engineering",
+        "Generative AI",
+        "Problem Solving"
+    ],
+
+    languages: [
+        "Java",
+        "Python",
+        "C",
+        "JavaScript"
+    ],
+
+    motto: "Build → Break → Learn → Rebuild"
+};
+```
+
+</details>
+
+---
+
+<p align="center">
+
+### `⚡ Code. Create. Iterate. Repeat.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</p>
