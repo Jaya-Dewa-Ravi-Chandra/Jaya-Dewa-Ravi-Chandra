@@ -332,43 +332,6 @@ Anurag University
 
 </p>
 
----
-
-<details>
-<summary>🧪 Developer Snapshot</summary>
-
-<br>
-
-```javascript
-const developer = {
-    name: "Jaya Dewa Ravi Chandra",
-    degree: "B.Tech Artificial Intelligence",
-    university: "Anurag University",
-
-    stack: {
-        languages: ["Java", "Python", "C", "JavaScript"],
-        frontend: ["React", "HTML", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "REST APIs"],
-        databases: ["MongoDB", "SQL"],
-        ai: ["Gemini API"]
-    },
-
-    interests: [
-        "Artificial Intelligence",
-        "Full-Stack Development",
-        "Backend Engineering",
-        "Generative AI",
-        "Problem Solving"
-    ],
-
-    philosophy: "Build → Break → Learn → Rebuild"
-};
-```
-
-</details>
-
----
-
 <p align="center">
 
 ### `⚡ CODE · CREATE · ITERATE · REPEAT`
