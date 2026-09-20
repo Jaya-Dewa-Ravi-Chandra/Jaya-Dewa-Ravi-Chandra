@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=STARS&style=for-the-badge&color=F59E0B&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/Jaya-Dewa-Ravi-Chandra?label=STARS&style=for-the-badge&color=F59E0B&labelColor=0D1117" />
 </p>
 
 ---
@@ -44,14 +42,14 @@ currently:
 
 ### ⚡ Quick Stats
 
-|                      |                 |
-| -------------------- | --------------- |
-| 🎓 **Degree**        | B.Tech AI       |
-| 📊 **CGPA**          | **9.13**        |
-| 💻 **Focus**         | Full-Stack + AI |
-| 🏆 **Hackathon**     | Winner          |
-| 👨‍💻 **Internship** | Sadhaka AI      |
-| 🚀 **Projects**      | 3 Featured      |
+|                          |                 |
+| ------------------------ | --------------- |
+| 🎓 **Degree**            | B.Tech AI       |
+| 📊 **CGPA**              | **9.13**        |
+| 💻 **Focus**             | Full-Stack + AI |
+| 🏆 **Hackathon**         | Winner          |
+| 👨‍💻 **Internship**     | Sadhaka AI      |
+| 🚀 **Featured Projects** | 3               |
 
 </td>
 </tr>
@@ -107,26 +105,26 @@ currently:
 
 # 📊 SKILL MATRIX
 
-| Domain                 | Technologies                       |
-| :--------------------- | :--------------------------------- |
-| 🧠 **Languages**       | `Java` `Python` `C` `JavaScript`   |
-| ⚛️ **Frontend**        | `React.js` `HTML` `Tailwind CSS`   |
-| 🟢 **Backend**         | `Node.js` `Express.js` `REST APIs` |
-| 🗄️ **Database**       | `MongoDB` `SQL`                    |
-| 🤖 **AI**              | `Gemini API`                       |
-| ☁️ **Cloud / Storage** | `Supabase` `Cloudinary`            |
-| 🧩 **Core CS**         | `DSA` `OOP` `Multithreading`       |
-| 🔧 **Tools**           | `Git` `GitHub`                     |
+| Domain                 | Technologies                           |
+| :--------------------- | :------------------------------------- |
+| 🧠 **Languages**       | `Java` · `Python` · `C` · `JavaScript` |
+| ⚛️ **Frontend**        | `React.js` · `HTML` · `Tailwind CSS`   |
+| 🟢 **Backend**         | `Node.js` · `Express.js` · `REST APIs` |
+| 🗄️ **Database**       | `MongoDB` · `SQL`                      |
+| 🤖 **AI**              | `Gemini API`                           |
+| ☁️ **Cloud / Storage** | `Supabase` · `Cloudinary`              |
+| 🧩 **Core CS**         | `DSA` · `OOP` · `Multithreading`       |
+| 🔧 **Tools**           | `Git` · `GitHub`                       |
 
 ---
 
-# 🚀 PROJECTS
+# 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-## 🤖 Resume Analyzer
+## 🤖 AI Resume Analyzer
 
 **AI-powered resume intelligence platform**
 
@@ -145,7 +143,8 @@ currently:
 * 👥 Role-based dashboards
 * 📱 Responsive UI
 
-**Impact:**
+**Impact**
+
 `90% ↓ manual screening effort`
 
 </td>
@@ -154,7 +153,7 @@ currently:
 
 ## 💰 UdhaarBook
 
-**Digital ledger system for small businesses**
+**Digital ledger system**
 
 ### Stack
 
@@ -164,13 +163,14 @@ currently:
 ### Features
 
 * 📒 Digital ledgers
-* 🔌 **20+ APIs**
+* 🔌 **20+ REST APIs**
 * 🔐 Authentication
-* 👥 RBAC
-* 💳 Payments
+* 👥 Role-based access
+* 💳 Payment integration
 * ♻️ Soft-delete recovery
 
-**Focus:**
+**Focus**
+
 `Secure transaction management`
 
 </td>
@@ -179,7 +179,7 @@ currently:
 
 ## 🌾 FarmNXT
 
-**AI-powered smart farming assistant**
+**AI-powered smart farming**
 
 ### Stack
 
@@ -194,7 +194,7 @@ currently:
 * 🌦️ Weather intelligence
 * 👥 Community feed
 
-**Impact:**
+**Impact**
 
 `15+` crop diseases
 `20%` water reduction
@@ -210,11 +210,12 @@ currently:
 
 <table>
 <tr>
+
 <td align="center" width="50%">
 
-### 🥇 WINNER
+### 🥇 HACKATHON WINNER
 
-<img src="https://img.shields.io/badge/Tech_Hack_%234-Winner-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tech_Hack_%234-WINNER-F59E0B?style=for-the-badge"/>
 
 **Web Development Domain**
 
@@ -233,6 +234,7 @@ Competed among **50+ teams**
 Anurag University
 
 </td>
+
 </tr>
 </table>
 
@@ -240,34 +242,37 @@ Anurag University
 
 # 💼 EXPERIENCE
 
-### `Sadhaka AI` — Full Stack Intern
+## `Sadhaka AI` — Full Stack Intern
 
-📍 Hyderabad, India · **June 2025**
+**📍 Hyderabad, India · June 2025**
 
-| Contribution          | Impact                                 |
-| :-------------------- | :------------------------------------- |
-| Backend development   | Improved **20% of REST API endpoints** |
-| Agricultural platform | Crop guidance & digital support        |
-| User impact           | **30+ farmers** supported              |
+| Contribution             | Result                            |
+| :----------------------- | :-------------------------------- |
+| 🔌 REST API development  | Improved **20% of API endpoints** |
+| 🌾 Agricultural platform | Crop guidance & digital support   |
+| 👨‍🌾 User impact        | **30+ farmers**                   |
 
 ---
 
 # 📜 CERTIFICATIONS
 
-| Certification                               | Provider         |
-| :------------------------------------------ | :--------------- |
-| ☁️ AWS Academy Graduate — Cloud Foundations | **AWS Academy**  |
-| 🧩 Problem Solving (Basic)                  | **HackerRank**   |
-| 🤖 Prompt Design in Vertex AI               | **Google Cloud** |
-| 📚 Gemini Multimodality & Multimodal RAG    | **Google Cloud** |
+| Certification                                   | Provider     |
+| :---------------------------------------------- | :----------- |
+| ☁️ **AWS Academy Graduate — Cloud Foundations** | AWS Academy  |
+| 🧩 **Problem Solving (Basic)**                  | HackerRank   |
+| 🤖 **Prompt Design in Vertex AI**               | Google Cloud |
+| 📚 **Gemini Multimodality & Multimodal RAG**    | Google Cloud |
 
 ---
 
 # 📈 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jaya-Dewa-Ravi-Chandra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaya-Dewa-Ravi-Chandra&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
 </p>
 
 ---
@@ -275,7 +280,9 @@ Anurag University
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=Jaya-Dewa-Ravi-Chandra&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -283,64 +290,38 @@ Anurag University
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaya-Dewa-Ravi-Chandra&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
 </p>
 
 ---
 
-# 🧠 CURRENTLY BUILDING
+# 🧠 CORE CS
 
-```text
-                    ┌─────────────────────┐
-                    │   ARTIFICIAL        │
-                    │   INTELLIGENCE 🤖   │
-                    └──────────┬──────────┘
-                               │
-                ┌──────────────┼──────────────┐
-                ↓              ↓              ↓
-           FULL-STACK       BACKEND       GEN AI
-                │              │              │
-                └──────────────┼──────────────┘
-                               ↓
-                     REAL-WORLD PRODUCTS
-```
+| Concept                | Focus                  |
+| :--------------------- | :--------------------- |
+| 📚 **Data Structures** | Problem solving        |
+| ⚡ **Algorithms**       | Optimization           |
+| 🏗️ **OOP**            | Software architecture  |
+| 🧵 **Multithreading**  | Concurrent programming |
+| 🔌 **REST APIs**       | Backend engineering    |
+| 🗄️ **Databases**      | Data management        |
+
 
 ---
 
-# 🧩 CORE CS
+# 🧪 CURRENTLY EXPLORING
 
-| 🧠 Concept         | Focus                  |
-| :----------------- | :--------------------- |
-| 📚 Data Structures | Problem solving        |
-| ⚡ Algorithms       | Optimization           |
-| 🏗️ OOP            | Software architecture  |
-| 🧵 Multithreading  | Concurrent programming |
-| 🔌 REST APIs       | Backend engineering    |
-| 🗄️ Databases      | Data management        |
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Artificial_Intelligence-8E75B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full--Stack_Development-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend_Engineering-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-EF4444?style=for-the-badge"/>
 
-# 🎯 DEVELOPER JOURNEY
-
-```text
-2024
- │
- ├── 🎓 Started B.Tech AI
- │
- ▼
-2025
- │
- ├── 💼 Full Stack Internship
- ├── 🌾 Built FarmNXT
- ├── 🏆 Tech Hack #4 Winner
- │
- ▼
-2026
- │
- ├── 🤖 AI + Full-Stack
- ├── 🚀 Building scalable applications
- └── 🧠 Expanding engineering skills
-```
+</p>
 
 ---
 
@@ -352,11 +333,11 @@ Anurag University
 <img src="https://img.shields.io/badge/Email-jayadewaravichandra%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Jaya-Dewa-Ravi-Chandra">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://www.linkedin.com/in/jaya-dewa-ravi-chandra-bandi/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -365,7 +346,7 @@ Anurag University
 ---
 
 <details>
-<summary>🧪 More About Me</summary>
+<summary>🧪 Developer Snapshot</summary>
 
 <br>
 
@@ -375,6 +356,14 @@ const developer = {
     degree: "B.Tech Artificial Intelligence",
     university: "Anurag University",
 
+    stack: {
+        languages: ["Java", "Python", "C", "JavaScript"],
+        frontend: ["React", "HTML", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js", "REST APIs"],
+        databases: ["MongoDB", "SQL"],
+        ai: ["Gemini API"]
+    },
+
     interests: [
         "Artificial Intelligence",
         "Full-Stack Development",
@@ -383,14 +372,7 @@ const developer = {
         "Problem Solving"
     ],
 
-    languages: [
-        "Java",
-        "Python",
-        "C",
-        "JavaScript"
-    ],
-
-    motto: "Build → Break → Learn → Rebuild"
+    philosophy: "Build → Break → Learn → Rebuild"
 };
 ```
 
@@ -400,7 +382,7 @@ const developer = {
 
 <p align="center">
 
-### `⚡ Code. Create. Iterate. Repeat.`
+### `⚡ CODE · CREATE · ITERATE · REPEAT`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
