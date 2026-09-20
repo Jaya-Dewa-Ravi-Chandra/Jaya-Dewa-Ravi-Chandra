@@ -269,33 +269,28 @@ Anurag University
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jaya-Dewa-Ravi-Chandra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaya-Dewa-Ravi-Chandra&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img
+  src="https://streak-stats.demolab.com/?user=Jaya-Dewa-Ravi-Chandra&theme=tokyonight&hide_border=true"
+  width="500"
+/>
 
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 💻 GitHub Activity
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Jaya-Dewa-Ravi-Chandra&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Jaya-Dewa-Ravi-Chandra">
+  <img
+    src="https://ghchart.rshah.org/00F7FF/Jaya-Dewa-Ravi-Chandra"
+    alt="Jaya Dewa Ravi Chandra's GitHub contribution graph"
+    width="90%"
+  />
+</a>
 
 </p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaya-Dewa-Ravi-Chandra&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</p>
-
----
 
 # 🧠 CORE CS
 
